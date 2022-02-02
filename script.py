@@ -1,7 +1,7 @@
 class Script(object):
-    START_TXT = """Hello {},
+    START_TXT = """Namaste {},
 
-My name is <a href=https://t.me/{}>{}</a>!
+My peru is <a href=https://t.me/{}>{}</a>!
 
 <b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
 
@@ -11,7 +11,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
+    ABOUT_TXT = """<b>➥ My peru: {}
 ➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹

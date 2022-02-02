@@ -7,7 +7,7 @@ My peru is <a href=https://t.me/{}>{}</a>!
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
-    HELP_TXT = """Hey {}
+    HELP_TXT = """namaste {}
 
 <b>Here Is The Help For My Commands.</b>"""
 
